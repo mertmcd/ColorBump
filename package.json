@@ -50,7 +50,7 @@
     "randomcolor": "^0.6.2",
     "robust-point-in-polygon": "^1.0.3",
     "shifty": "^2.9.1",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "three-ziploader": "0.0.1"
   }
 }
